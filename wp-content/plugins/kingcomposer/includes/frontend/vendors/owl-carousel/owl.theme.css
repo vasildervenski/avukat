@@ -87,5 +87,5 @@
 /* preloading images */
 .owl-item.loading{
 	min-height: 150px;
-	background: url(/avukat/wp-content/plugins/kingcomposer/includes/frontend/vendors/owl-carousel/AjaxLoader.gif) no-repeat center center
+	background: url(/wp-content/plugins/kingcomposer/includes/frontend/vendors/owl-carousel/AjaxLoader.gif) no-repeat center center
 }

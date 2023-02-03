@@ -1,33 +1,33 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/avukat/main-sitemap.xsl"?>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="/main-sitemap.xsl"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd http://www.google.com/schemas/sitemap-image/1.1 http://www.google.com/schemas/sitemap-image/1.1/sitemap-image.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 	<url>
-		<loc>/avukat/tr/</loc>
+		<loc>/tr/</loc>
 		<lastmod>2021-07-19T16:42:59+00:00</lastmod>
 		<image:image>
-			<image:loc>/avukat/wp-content/uploads/2021/02/iStock_000019191669_Large-Cropped-hc-1024x307.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2021/02/iStock_000019191669_Large-Cropped-hc-1024x307.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/avukat/hakkimizda/</loc>
+		<loc>/hakkimizda/</loc>
 		<lastmod>2018-02-28T20:08:12+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/avukat/hizmetler/</loc>
+		<loc>/hizmetler/</loc>
 		<lastmod>2018-02-28T20:09:28+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/avukat/bg/</loc>
+		<loc>/bg/</loc>
 		<lastmod>2020-09-28T14:51:07+00:00</lastmod>
 		<image:image>
-			<image:loc>/avukat/wp-content/uploads/2017/10/iStock_000019191669_Large-Cropped.jpg</image:loc>
+			<image:loc>/wp-content/uploads/2017/10/iStock_000019191669_Large-Cropped.jpg</image:loc>
 		</image:image>
 	</url>
 	<url>
-		<loc>/avukat/kontakti/</loc>
+		<loc>/kontakti/</loc>
 		<lastmod>2020-10-06T09:11:35+00:00</lastmod>
 	</url>
 	<url>
-		<loc>/avukat/iletisim/</loc>
+		<loc>/iletisim/</loc>
 		<lastmod>2020-10-06T09:15:43+00:00</lastmod>
 	</url>
 </urlset>

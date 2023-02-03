@@ -55,7 +55,7 @@
 
 /* mouse grab icon */
 .grabbing { 
-    cursor:url(/avukat/wp-content/plugins/kingcomposer/includes/frontend/vendors/owl-carousel/grabbing.png) 8 8, move;
+    cursor:url(/wp-content/plugins/kingcomposer/includes/frontend/vendors/owl-carousel/grabbing.png) 8 8, move;
 }
 
 /* fix */
