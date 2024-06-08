@@ -1,14 +1,29 @@
 <!DOCTYPE html>
 <html>
-	<head>
-		<title>Redirecting...</title>
-		<meta http-equiv="refresh" content="0;url=https://vasildervenski.github.io/avukat/tr/">
-	</head>
-	<body>
-		<script type="text/javascript">
-			window.location = "https://vasildervenski.github.io/avukat/tr/";
-		</script>
+<head>
+    <title>Redirecting...</title>
+    <meta http-equiv="refresh" content="0;url=https://vasildervenski.github.io/avukat/en/">
+</head>
+<body>
+    <script type="text/javascript">
+        (function() {
+            var languageMappings = {
+                'tr': 'https://vasildervenski.github.io/avukat/tr/',
+                'bg': 'https://vasildervenski.github.io/avukat/bg/' // Add more mappings as needed
+            };
 
-		<p>You are being redirected to <a href="/avukat/tr/">https://vasildervenski.github.io/avukat/tr/</a></p>
-	</body>
+            // Get the browser's preferred language
+            var userLang = navigator.language || navigator.userLanguage;
+            userLang = userLang.split('-')[0]; // Get the base language part
+
+            // Default to English if no match is found
+            var redirectUrl = languageMappings[userLang] || 'https://vasildervenski.github.io/avukat/tr';
+
+            // Redirect to the appropriate URL
+            window.location = redirectUrl;
+        })();
+    </script>
+
+    <p>You are being redirected to the appropriate language version of the site.</p>
+</body>
 </html>
