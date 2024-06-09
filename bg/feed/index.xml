@@ -9,8 +9,8 @@
 
 <channel>
 	<title>Bulgaristanda Avukat</title>
-	<atom:link href="https://vasildervenski.github.io/avukat/bg/feed/" rel="self" type="application/rss+xml" />
-	<link>https://vasildervenski.github.io/avukat/</link>
+	<atom:link href="https://avukat.bg/bg/feed/" rel="self" type="application/rss+xml" />
+	<link>https://avukat.bg/</link>
 	<description>Avukat Deniz Huseyin, Plovdiv (Filibe) Barosu</description>
 	<lastBuildDate>Mon, 19 Jul 2021 16:42:59 +0000</lastBuildDate>
 	<language>bg-BG</language>
@@ -21,9 +21,9 @@
 	<generator>https://wordpress.org/?v=5.5.11</generator>
 
 <image>
-	<url>https://vasildervenski.github.io/avukat/wp-content/uploads/2018/02/cropped-logo-deniz-huseyin-2-32x32.png</url>
+	<url>https://avukat.bg/wp-content/uploads/2018/02/cropped-logo-deniz-huseyin-2-32x32.png</url>
 	<title>Bulgaristanda Avukat</title>
-	<link>https://vasildervenski.github.io/avukat/</link>
+	<link>https://avukat.bg/</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
